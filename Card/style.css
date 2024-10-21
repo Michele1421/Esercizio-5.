@@ -1,0 +1,69 @@
+*{ font-family: "Roboto", serif;
+    
+    
+}
+
+body{ padding: 0px;
+      margin: 0px;
+    
+    
+}
+    
+h1,h2,h3{ 
+    font-family: "Electrolize", serif;
+    
+}
+
+
+
+
+
+
+
+
+header{
+    background-image:url(https://cinematroisi.it/wp-content/uploads/2021/09/%C2%A9Flavia-Rossi_Cinema-Troisi_001-Copia-1024x814.jpg);
+
+    
+    background-position: center;
+    background-size:cover;
+    
+}
+
+h1{ 
+    text-align: center;
+    font-size: 50px;    
+    letter-spacing: 5px;
+    color: rgb(235, 230, 230);
+}
+
+
+
+
+
+footer{
+    display: flex;
+     justify-content: center;
+    height: 15vh;
+    background-color: rgb(243, 242, 242);
+    color: rgb(3, 3, 3);
+}
+
+
+
+ul{ 
+    list-style-type: none;
+}
+
+
+
+
+
+     
+
+
+
+
+
+
+
